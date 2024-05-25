@@ -1,0 +1,1 @@
+A more sophisticated (not by much) Bitcoin price monitor. Includes an price alert function. Utilitizes CoinGecko, and CoinMarketCap Api's. Built in Python 3.12, using OOP (Object Oriented Programming)
